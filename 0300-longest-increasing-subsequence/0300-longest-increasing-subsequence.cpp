@@ -4,16 +4,18 @@ public:
         if (nums.empty()) return 0;
         
         std::vector<int> sub;
-        sub.push_back(nums[0]);
         
-        for (int i = 1; i < nums.size(); ++i) {
-            if (nums[i] > sub.back()) {
-                sub.push_back(nums[i]);
-            } else {
-                // Find the first element in sub that is greater than or equal to nums[i]
-                // Equivalent of writing a loop
-                auto it = std::lower_bound(sub.begin(), sub.end(), nums[i]);
-                *it = nums[i];
+        for (int num : nums) {
+            // low_bound is using binary search. T(N) = O(log(n))
+            auto it = std::lower_bound(sub.begin(), sub.end(), num);
+            
+            // If num is greater than any element in sub
+            if (it == sub.end()) {
+                sub.push_back(num);
+            } 
+            // Otherwise, replace the first element in sub greater than or equal to num
+            else {
+                *it = num;
             }
         }
         
