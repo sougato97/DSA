@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/sougato97/DSA/tree/master/2201-valid-arrangement-of-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sougato97/DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sougato97/DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+## Depth-First Search
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/sougato97/DSA/tree/master/2201-valid-arrangement-of-pairs) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/sougato97/DSA/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
