@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sougato97/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0152-maximum-product-subarray](https://github.com/sougato97/DSA/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/sougato97/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sougato97/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sougato97/DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sougato97/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sougato97/DSA/tree/master/0073-set-matrix-zeroes) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sougato97/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sougato97/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sougato97/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -64,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/sougato97/DSA/tree/master/0775-n-ary-tree-preorder-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sougato97/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+## Sorting
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sougato97/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
