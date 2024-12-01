@@ -50,9 +50,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/sougato97/DSA/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [2201-valid-arrangement-of-pairs](https://github.com/sougato97/DSA/tree/master/2201-valid-arrangement-of-pairs) |
 ## Eulerian Circuit
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/sougato97/DSA/tree/master/2201-valid-arrangement-of-pairs) |
+## Stack
+|  |
+| ------- |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/sougato97/DSA/tree/master/0775-n-ary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/sougato97/DSA/tree/master/0775-n-ary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
