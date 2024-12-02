@@ -12,7 +12,14 @@ public:
             }
 
             // Check if the current word starts with searchWord
-            if (i < sentence_length && sentence.substr(i, searchWord.length()) == searchWord) {
+            // Custom implementation of string.substring()
+            int j = 0; // matchCount
+            while (i < sentence_length && j < searchWord.length() && sentence[i] == searchWord[j]){
+                i++;
+                j++;
+            }
+            // Check whether the substring has matched with the searchWord
+            if (j == searchWord.length()){
                 return word_count;
             }
 
