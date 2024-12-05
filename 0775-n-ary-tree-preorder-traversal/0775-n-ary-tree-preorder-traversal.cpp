@@ -21,26 +21,24 @@ public:
 class Solution {
 public:
     vector<int> preorder(Node* root) {
-        stack<Node*> stack;
-        vector<int> result; // stores the preorder traversal
+        vector<int> result;
         if (root == nullptr){
             return result;
         }
-
-        // inserting the root element into the stack
-        // this will help start the traversal
-        stack.push(root);
-        while(!stack.empty()){
-            Node* node = stack.top();
-            stack.pop();
-            // storing the elements into the preorder traversal fashion
-            result.push_back(node->val);
-            // as 
-            reverse(node->children.begin(), node->children.end());
-            for (Node* child: node-> children){
-                stack.push(child);
-            }
-        }
+        traversePreOrder(root, result);
         return result;
+    }
+private:
+    void traversePreOrder(Node* root, vector<int>& result){
+        if (root == nullptr){
+            return;
+        }
+        // add the root value first
+        result.push_back(root->val);
+        // recursively add the childrem
+        for (auto child: root->children){
+            // here each child behaves as they are their own root
+            traversePreOrder(child, result);
+        }    
     }
 };
