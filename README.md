@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sougato97/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sougato97/DSA/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/sougato97/DSA/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/sougato97/DSA/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/sougato97/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sougato97/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/sougato97/DSA/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sougato97/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sougato97/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
