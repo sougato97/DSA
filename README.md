@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/sougato97/DSA/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/sougato97/DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sougato97/DSA/tree/master/0008-string-to-integer-atoi) |
+| [1078-remove-outermost-parentheses](https://github.com/sougato97/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sougato97/DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/sougato97/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/sougato97/DSA/tree/master/2414-move-pieces-to-obtain-a-string) |
